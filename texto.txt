@@ -1,7 +1,3 @@
 sdfsdfsfsfds
 teste
-<<<<<<< HEAD
-testando
-=======
 teste2
->>>>>>> f9d9d0fe08c5aed7a2c9aaf6b1ccf7da743c868a
